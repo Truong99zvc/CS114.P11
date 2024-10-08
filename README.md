@@ -21,7 +21,7 @@
 * **Mã môn học**: CS114
 * **Lớp học**: CS114.P11
 * **Ngày bắt đầu**: 2/9/2024
-* **Năm học**: 2024
+* **Năm học**: 2024 - 2025
 ## QUÁ TRÌNH MÔN HỌC
 <a name ="quatrinh"></a>
 ### 1.KHÓA HỌC TRÊN LỚP - COURSE IN CLASS
